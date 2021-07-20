@@ -1,4 +1,4 @@
-# Week-14-IP
+# Feature Selection, Extraction, Transaction Association Analysis & Anomaly Detection (Week-14-Independent Project)
 
 # Author
 Ted Askoye
